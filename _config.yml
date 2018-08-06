@@ -13,7 +13,7 @@ name                     : &name "CAOZI"
 description              : "Personal Blog of CAOZI"
 url                      : https://caozi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "caozi/caozi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cao Zi"
+  name             : "CAO ZI"
   avatar           : "SAVE_20180701_120052.jpeg"
   bio              : "Live in Tianjin,China;Graduated from Tianjin Medical University;Optometry,Pathology."
   location         : "Tianjin China"
