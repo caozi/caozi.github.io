@@ -11,15 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Tianjin China, Tianjin Medical University,school of optometry, 2014
+* M.S. in Tianjin China, Tianjin Medical University,school of basci medicine,department of pathology, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* Summer 2017: employee
+  * Tianjin Cancer Hospital 
+  * Duties included: Pathology
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
