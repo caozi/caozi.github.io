@@ -1,7 +1,7 @@
 ---
 title: "The Expression and Functional Significance of Runx2 in Hepatocellular Carcinoma: Its Role in Vasculogenic Mimicry and Epithelial–Mesenchymal Transition"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 
 excerpt: 
 date: 2017-01-04
 venue: 'International Journal of Molecular Sciences' 
