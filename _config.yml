@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Keep Pursuing"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "CAOZI"
 description              : "Personal Blog of CAOZI"
